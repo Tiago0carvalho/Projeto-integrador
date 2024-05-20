@@ -10,6 +10,6 @@ CARLA RODRIGUES DE SOUZA<br />
 ## Descrição/ Objetivo
 Nesta fase do trabalho, apresentamos os protótipos da interface do sistema de desenvolvimento da gestão de dados de um centro universitário, utilizando como base os diagramas de caso de uso já desenvolvidos anteriomente nesse projeto.
 
-### Telas
+## Telas
 
 
