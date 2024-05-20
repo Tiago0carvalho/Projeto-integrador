@@ -1,4 +1,4 @@
-# Trip-Taker
+# Sistema de Cadastro Universitário
 Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo contém 5 integrantes:
 
 TIAGO CARVALHO DA SILVA <br />
