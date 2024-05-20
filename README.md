@@ -21,6 +21,7 @@ Tercerizados - A tela de login será exibida primeiro. Em seguida, será possív
 https://miro.com/app/board/uXjVKHXaCmg=/
 
 ## Telas no Miro
+<img width="761" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/a2630565-717b-4fd8-9bf5-2d479d9bb544">
 
 
 
