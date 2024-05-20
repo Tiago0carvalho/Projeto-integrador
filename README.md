@@ -37,6 +37,8 @@ A página conhecida como tela inicial do site é onde ficam disponibilizadas as 
 <img width="155" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/ff80c6bd-3ce1-40f2-9d1a-52d5f6fc8eab">
 <img width="158" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/d23544be-a4ea-4f3a-bbbd-3a5661e086fc">
 <img width="154" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/3b5e7711-a195-4b1e-8597-70403e2fde97">
+<img width="182" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/d3a147df-aa42-404c-b08f-b067e5ee1e99">
+
 
 
 
