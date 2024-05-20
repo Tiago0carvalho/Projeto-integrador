@@ -21,7 +21,13 @@ Tercerizados - A tela de login será exibida primeiro. Em seguida, será possív
 https://miro.com/app/board/uXjVKHXaCmg=/
 
 ## Telas no Miro
-<img width="761" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/a2630565-717b-4fd8-9bf5-2d479d9bb544">
+<img width="761" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/a2630565-717b-4fd8-9bf5-2d479d9bb544"><br />
+
+## Login
+A etapa responsável por validar o login e senha para ter acesso a um site específico, permitindo a autenticação de diferentes tipos de usuários como administradores, alunos, professores, fornecedores e terceirizados, é conhecida como autenticação de usuários.<br />
+
+<img width="217" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/20f0b4a5-8444-4688-a857-7d1121b2be4d">
+
 
 
 
