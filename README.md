@@ -28,6 +28,9 @@ A etapa responsável por validar o login e senha para ter acesso a um site espec
 
 <img width="217" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/20f0b4a5-8444-4688-a857-7d1121b2be4d">
 <img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/7a8f7532-a0b7-4481-a98d-f83ed2af15ac">
+<img width="218" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/3f216e11-33be-4ed7-ad4e-a385845a636c">
+<img width="221" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/4539cc58-cb21-4366-b95a-9e0c4babf0a0"><br />
+
 
 
 
