@@ -26,18 +26,18 @@ https://miro.com/app/board/uXjVKHXaCmg=/
 ## Login
 A etapa responsável por validar o login e senha para ter acesso a um site específico, permitindo a autenticação de diferentes tipos de usuários como administradores, alunos, professores, fornecedores e terceirizados, é conhecida como autenticação de usuários.<br />
 
-<img width="217" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/20f0b4a5-8444-4688-a857-7d1121b2be4d">
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/20f0b4a5-8444-4688-a857-7d1121b2be4d">
 <img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/7a8f7532-a0b7-4481-a98d-f83ed2af15ac">
-<img width="218" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/3f216e11-33be-4ed7-ad4e-a385845a636c">
-<img width="221" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/4539cc58-cb21-4366-b95a-9e0c4babf0a0"><br />
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/3f216e11-33be-4ed7-ad4e-a385845a636c">
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/4539cc58-cb21-4366-b95a-9e0c4babf0a0"><br />
 
 ## Tela Home 
 A página conhecida como tela inicial do site é onde ficam disponibilizadas as opções para interagir com o portal. Esta página, muitas vezes referida como dashboard ou painel de controle. <br />
 
-<img width="155" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/ff80c6bd-3ce1-40f2-9d1a-52d5f6fc8eab">
-<img width="158" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/d23544be-a4ea-4f3a-bbbd-3a5661e086fc">
-<img width="154" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/3b5e7711-a195-4b1e-8597-70403e2fde97">
-<img width="154" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/eec753cc-43e0-4166-8e90-49bc9278d1f3">
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/ff80c6bd-3ce1-40f2-9d1a-52d5f6fc8eab">
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/d23544be-a4ea-4f3a-bbbd-3a5661e086fc">
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/3b5e7711-a195-4b1e-8597-70403e2fde97">
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/eec753cc-43e0-4166-8e90-49bc9278d1f3">
 
 
 
