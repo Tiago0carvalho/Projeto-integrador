@@ -27,6 +27,8 @@ https://miro.com/app/board/uXjVKHXaCmg=/
 A etapa responsável por validar o login e senha para ter acesso a um site específico, permitindo a autenticação de diferentes tipos de usuários como administradores, alunos, professores, fornecedores e terceirizados, é conhecida como autenticação de usuários.<br />
 
 <img width="217" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/20f0b4a5-8444-4688-a857-7d1121b2be4d">
+<img width="223" alt="image" src="https://github.com/Tiago0carvalho/Projeto-integrador/assets/130933737/7a8f7532-a0b7-4481-a98d-f83ed2af15ac">
+
 
 
 
