@@ -17,4 +17,7 @@ Professor - A tela de login será exibida primeiro. em seguida, será possível 
 Fornecedores - A tela de login será exibida primeiro. em seguida, Terá mais detalhes em fazer um novo pedido, Forma de pagamento, consultar pedidos, alterar endereço e cancelar pedidos.<br />
 Tercerizados - A tela de login será exibida primeiro. Em seguida, será possível Consultar contrato, Renovar contrato e Realizar pagamento.<br />
 
+## Link das telas no Miro 
+https://miro.com/app/board/uXjVKHXaCmg=/
+
 
