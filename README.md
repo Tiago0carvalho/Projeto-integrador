@@ -12,8 +12,8 @@ Nesta fase do trabalho, apresentamos os protótipos da interface do sistema de d
 
 ## Telas
 Administrador - A tela de login será exibida primeiro. Em seguida, será possível cadastrar e remover alunos, professores e empresas, além de consultar dados.<br />
-Aluno - A tela de login será exibida primeiro. em seguida, será possível vizualizar notas, verificar horários, eviar documentos e acessar material..<br />
-Professor - A tela de login será exibida primeiro. em seguida, será possível Atribuir notas, informar presença/ausência, disponibilizar material e consultar aluno <br />
+Aluno - A tela de login será exibida primeiro. em seguida, será possível vizualizar notas, verificar horários, eviar documentos e acessar material.<br />
+Professor - A tela de login será exibida primeiro. em seguida, será possível Atribuir notas, informar presença/ausência, disponibilizar material e consultar aluno. <br />
 Fornecedores - A tela de login será exibida primeiro. em seguida, Terá mais detalhes em fazer um novo pedido, Forma de pagamento, consultar pedidos, alterar endereço e cancelar pedidos.<br />
 Tercerizados - A tela de login será exibida primeiro. Em seguida, será possível Consultar contrato, Renovar contrato e Realizar pagamento.<br />
 
